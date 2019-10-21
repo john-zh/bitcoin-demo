@@ -1,6 +1,6 @@
 ## 比特币相关知识汇总
 
-### 钱包 [demo](https://blog.secret-base.site/bitcoin-demo/)
+### 钱包 [demo](https://visionchang.github.io/bitcoin-demo/)
 
 ### 基本知识点脑图    
 - [BTC.pdf](https://github.com/john-zh/bitcoin/blob/master/BTC.pdf)    
